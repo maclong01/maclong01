@@ -57,7 +57,7 @@
 <h3 align="center">Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustWhit3&row=2&column=3&theme=algolia" width = "450">
+  <img src="https://github-profile-trophy.vercel.app/?username=maclong01&row=2&column=3&theme=algolia" width = "450">
 </p>
 
 ***
