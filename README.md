@@ -36,7 +36,8 @@
 |--|--|
 | [STEP-CATFormer](https://github.com/maclong01/STEP-CATFormer) | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [TSP GCN](https://github.com/maclong01/JSAI2021-GCNTSP) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django)|
-| [Data Mining](https://www.kaggle.com/ep18041) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TensorRT](https://img.shields.io/badge/TensorRT-black?style=flat-square&logo=tensorrt) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [Robot Reinforcement Learning](https://www.kaggle.com/ep18041) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TensorRT](https://img.shields.io/badge/TensorRT-black?style=flat-square&logo=tensorrt) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [Stocks Mining](https://www.kaggle.com/ep18041) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TensorRT](https://img.shields.io/badge/TensorRT-black?style=flat-square&logo=tensorrt) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 
 </td><td>
 
