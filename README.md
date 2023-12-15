@@ -23,7 +23,7 @@
 
 * 🚀 Pursuing Master's Degree in Computer Vision, **CVM**.
 
-* 🖌 Researching on **AI** and **Computer Vision, Action Recognition, Image Understanding Models*. 
+* 🖌 Researching on **AI** and **Computer Vision, Action Recognition, Image Understanding Models**. 
 
 * 🤩 Currently working on Image Understanding.
 
