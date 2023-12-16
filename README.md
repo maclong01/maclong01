@@ -25,7 +25,7 @@
 
 * 🖌 Researching on **AI** and **Computer Vision for Action Recognition, Image Understanding**. 
 
-* 🤩 Currently working on Image Understanding Models.
+* 🤩 Currently working on Image Understanding Backbone.
 
 ### 🏎️ Projects And Studies.
 <table>
