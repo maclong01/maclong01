@@ -1,7 +1,8 @@
 ### PLUS ULTRA 🚀
 
+My name is NguyenHuuBaoLong (グェンフウ　バオロン）
 
-- 🔭 I’m currently working on Chubu University of Kasugai in Aichi, Japan.
+- 🔭 I’m currently working on Omron Corp, Japan.
 - 🌱 I’m currently learning Deep Learning for Action Regcotion and Image Understanding.
 - 📫 How to reach me: maclong01@gmail.com
 
