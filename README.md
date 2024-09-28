@@ -3,7 +3,7 @@
 My name is NguyenHuuBaoLong (グェンフウ　バオロン）
 
 - 🔭 I’m currently working on Omron Corp, Japan.
-- 🌱 I’m currently learning Deep Learning for Action Regcotion and Image Understanding.
+- 🌱 I’m currently learning Deep Learning for Action Regcotion, Image Understanding, and Multi-Modal.
 - 📫 How to reach me: maclong01@gmail.com
 
 <p align="center">    
