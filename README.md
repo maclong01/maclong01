@@ -3,13 +3,13 @@
 My name is NguyenHuuBaoLong (グェンフウ　バオロン）
 
 - 🔭 I’m currently working on Omron Corp, Japan.
-- 🌱 I’m currently learning Deep Learning for Computer Vision, Reinforcement Learning, GNN and Multi-Modal.
+- 🌱 I’m currently learning Deep Learning for Computer Vision, Reinforcement Learning, GNN, Self Supervised Learning and Multi-Modal.
 - 📫 How to reach me: maclong01@gmail.com
 
 
 <p align="center">    
 <a href="https://github.com/maclong01">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=NguyenHuuBaoLong ;Researcher+%7C+Research in+%7C;AI+%7C+Computer+Vision+&+Image Understanding%7C+Action Recognition" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=NguyenHuuBaoLong ;ML+%7C+Deep Learning+%7C;AI+%7C+Computer+Vision+&+Reinforcement Learning%7C+Self Supervised Learning" alt="Typing SVG" />
 </a>
 <br/>
 <!-- <a href="https://github.com/comeeasy">
