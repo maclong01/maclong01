@@ -6,10 +6,6 @@ My name is NguyenHuuBaoLong (グェンフウ　バオロン）
 - 🌱 I’m currently learning Deep Learning for Computer Vision, Reinforcement Learning, GNN and Multi-Modal.
 - 📫 How to reach me: maclong01@gmail.com
 
-* 🚀 Pursuing Master's Degree in Computer Vision, **CVM**.
-* 🖌 Researching on **AI** and **Computer Vision for Action Recognition, Image Understanding**. 
-* 🤩 Currently working on Image Understanding Backbone.
-
 
 <p align="center">    
 <a href="https://github.com/maclong01">
