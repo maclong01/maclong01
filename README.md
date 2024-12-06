@@ -13,9 +13,11 @@ I am a Machine Learning Engineer. My research areas at computer vision. Specific
 News
 
 ・2024/11/15 One paper accepted to ACCV 2024.
+
 [DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention](https://github.com/maclong01/DeBiFormer)
 
 ・2023/10/06 One paper accepted to BMVC 2023.
+
 [STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition](https://github.com/maclong01/STEP-CATFormer)
 
 
