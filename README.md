@@ -1,10 +1,19 @@
 ### PLUS ULTRA 🚀
 
-My name is NguyenHuuBaoLong (グェンフウ　バオロン）
+My name is NguyenHuuBaoLong 
+グェンフウ　バオロン
 
+I am a Machine Learning Engineer. My research areas at computer vision. Specifically, I work on visual perception, multi modal and GNNs. I obtained my Master degree in Computer Science from Chubu University in 2024, advised by Prof.Yamashita Takayoshi and Prof.Togoroh Matsui. Previously, I obtained BS degree in Informatic from Chubu University.
+
+- 📫 How to reach me: maclong01@gmail.com
 - 🔭 I’m currently working on Omron Corp, Japan.
 - 🌱 I’m currently learning Deep Learning for Computer Vision, Reinforcement Learning, GNN, Self Supervised Learning and Multi-Modal.
-- 📫 How to reach me: maclong01@gmail.com
+
+
+News
+・2024/11/15 One paper accepted to ACCV 2024.
+・2023/10/6 One paper accepted to BMVC 2023.
+
 
 
 <p align="center">    
