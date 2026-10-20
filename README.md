@@ -11,6 +11,9 @@ I am a Machine Learning Engineer. My research areas at computer vision. Specific
 
 
 News
+・2026/07/17 One paper accepted to ECCV 2026 MARS2.
+
+[AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation](https://github.com/maclong01/AGE)
 
 ・2024/11/15 One paper accepted to ACCV 2024.
 
