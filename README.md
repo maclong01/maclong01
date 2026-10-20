@@ -25,7 +25,7 @@ News
 
 
 
-<p align="center">    
+
 <a href="https://github.com/maclong01">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=NguyenHuuBaoLong ;ML+%7C+Deep Learning+%7C;AI+%7C+Computer+Vision+&+Reinforcement Learning%7C+Self Supervised Learning" alt="Typing SVG" />
 </a>
