@@ -1,5 +1,3 @@
-### PLUS ULTRA 🚀
-
 My name is NguyenHuuBaoLong 
 グェンフウ　バオロン
 
